@@ -1,6 +1,6 @@
 (defproject euler "0.1.0-SNAPSHOT"
   :description "Project Euler in Clojure"
-  :main "euler.euler-11"
+  :main euler.core
   :url ""
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
